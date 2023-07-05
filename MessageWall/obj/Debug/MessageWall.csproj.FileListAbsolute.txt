@@ -1,0 +1,11 @@
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\bin\Debug\MessageWall.exe.config
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\bin\Debug\MessageWall.exe
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\bin\Debug\MessageWall.pdb
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.AssemblyReference.cache
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\obj\Debug\MessageWall.Dashboard.resources
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\obj\Debug\MessageWall.Properties.Resources.resources
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.GenerateResource.cache
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\obj\Debug\MessageWall.csproj.CoreCompileInputs.cache
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\obj\Debug\MessageWall.exe
+C:\Users\ayoub\source\repos\MessageWallApp\MessageWall\obj\Debug\MessageWall.pdb
